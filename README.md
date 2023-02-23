@@ -13,6 +13,6 @@ To log in, use `mysql_db` as the server Username as `root` and password as `MYSQ
 
 To start interacting with the application, open `http://localhost:3050/` on a browser.
 
-Check out the step by step explained guide [here](https://www.section.io/engineering-education/build-and-dockerize-a-full-stack-react-app-with-nodejs-and-nginx/)
+Check out the step by step explained guide [here](https://elitesolutionit.atlassian.net/wiki/spaces/~62334c2d1c09d2007014fa00/pages/42565633/Build+and+Dockerize+a+Full-stack+React+app+with+Node.js+MySQL+and+Nginx)
 
 https://www.section.io/engineering-education/build-and-dockerize-a-full-stack-react-app-with-nodejs-and-nginx/
